@@ -1,0 +1,2 @@
+Put the three files for the bert pre-training model
+Download at https://github.com/ymcui/Chinese-BERT-wwm
